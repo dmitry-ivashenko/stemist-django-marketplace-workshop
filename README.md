@@ -1,8 +1,8 @@
-# Online Marketplace Prototype for STEMist Hacks 2.0 Django Workshop
+# Online Marketplace Prototype 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-!!!
+This is the project source code for **STEMist Hacks 2.0 Django Workshop**
 
 You can access [the presentation slides here](https://docs.google.com/presentation/d/1DWP5RuRelBANuqhvY9tTKsl8gjI2WJtd1uQ-KV9JMLA/edit?usp=sharing).
 
